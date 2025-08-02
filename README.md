@@ -1,42 +1,45 @@
-# 👋 ¡Hola! Soy Micaela Dilger — Desarrolladora Backend Junior
+# 👋 Hi! I'm Micaela Dilger — Junior Backend Developer
 
-Soy desarrolladora web especializada en backend, egresada de Henry. Me apasiona crear soluciones robustas, bien documentadas y centradas en la lógica del servidor.
-
----
-
-## 🛠️ Tecnologías principales
-
-🌿 **Node.js** · 🐚 **Nest.js** · 🚏 **Express.js**  
-🐘 **PostgreSQL** · 🍃 **MongoDB** · 🧪 **Supabase**  
-🔐 **JWT** · 📬 **Nodemailer** · 💳 **Mercado Pago** · 📖 **Swagger**  
-⚛️ **React.js** (nivel básico)  
-🧬 **Git** · 🐙 **GitHub** · 📮 **Postman** · 🧠 **Visual Studio Code**  
-🧪 **Jest** · ⏰ **Cron Jobs**
+I'm a web developer specialized in backend, recently graduated from Henry. I'm passionate about building robust, well-documented solutions focused on server-side logic.
 
 ---
 
-## 🚀 Proyectos destacados
+## 🛠️ Main Technologies
 
-### 🧩 Roots Cooperativa
-Backend para una cooperativa social.  
-Incluye gestión de visitas, mails automáticos, autenticación, carrito de compras y pagos online.
-
-🔗 [Repositorio en GitHub]([(https://github.com/roots-cooperativa-dev/Back-end-Repository), (https://github.com/roots-cooperativa-dev/frontend-rootscoop)]  
-📚 Tecnologías: 🌿 Node.js, 🐚 Nest.js, 🐘 PostgreSQL, 🧪 Supabase
-
----
-
-## 👩‍🏫 Rol actual
-
-**Teacher Assistant** en Henry Bootcamp  
-- Acompañamiento a estudiantes en desafíos full stack  
-- Pair programming y trabajo en equipo  
-- Coordinación grupal y mejora de procesos
+🌿 Node.js · 🐚 Nest.js · 🚏 Express.js  
+🐘 PostgreSQL · 🍃 MongoDB · 🧪 Supabase  
+🔐 JWT · 📬 Nodemailer · 💳 Mercado Pago · 📖 Swagger  
+⚛️ React.js (basic level)  
+🧬 Git · 🐙 GitHub · 📮 Postman · 🧠 Visual Studio Code  
+🧪 Jest · ⏰ Cron Jobs
 
 ---
 
-## 📫 Contacto
+## 🚀 Featured Projects
 
-- 🔗 [LinkedIn]([(https://www.linkedin.com/in/micaela-noemi-dilger-dev/)])  
-- 📧 micaelanoemidilger@gmail.com  
-- 🌍 Buscando oportunidades remotas o híbridas (Europa · LatAm)
+### 🧩 Roots Cooperativa  
+Backend for a social cooperative.  
+Includes visit scheduling, automated emails, authentication, shopping cart, and online donations.
+
+🔗 [GitHub Repository](https://github.com/roots-cooperativa-dev/Back-end-Repository)  
+🔗 [Frontend Repo](https://github.com/roots-cooperativa-dev/frontend-rootscoop)  
+📚 Technologies: 🌿 Node.js, 🐚 Nest.js, 🐘 PostgreSQL, 🧪 Supabase
+
+---
+
+## 👩‍🏫 Current Role
+
+**Teacher Assistant** at Henry Bootcamp
+
+- Supporting students in full stack challenges  
+- Encouraging teamwork and pair programming  
+- Group coordination and process improvement
+
+---
+
+## 📫 Contact
+
+🔗 [LinkedIn](https://linkedin.com/in/tu-usuario)  
+📧 micaelanoemidilger@gmail.com  
+🌍 Open to remote or hybrid opportunities (Europe · Latin America)
+
