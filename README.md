@@ -38,5 +38,5 @@ Incluye gestión de visitas, mails automáticos, autenticación, carrito de comp
 ## 📫 Contacto
 
 - 🔗 [LinkedIn]([(https://www.linkedin.com/in/micaela-noemi-dilger-dev/)])  
-- 📧 tuemail@gmail.com  
+- 📧 micaelanoemidilger@gmail.com  
 - 🌍 Buscando oportunidades remotas o híbridas (Europa · LatAm)
